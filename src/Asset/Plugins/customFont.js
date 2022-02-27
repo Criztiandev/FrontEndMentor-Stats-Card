@@ -2,7 +2,7 @@ const plugin = require('tailwindcss/plugin')
 
 let customSize = {}
 
-const size = [...Array(1000).keys()] 
+const size = [...Array(2000).keys()] 
 size.forEach(numbers =>{
     customSize[`.text-${numbers}px`] = {fontSize : numbers+ "px"}
     customSize[`.w-${numbers}px`] = {width : numbers + "px"}
