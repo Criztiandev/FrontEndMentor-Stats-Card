@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Stats-Card/static/css/main.039ef7f4.css",
+    "main.js": "/FrontEndMentor-Stats-Card/static/js/main.f8e386bf.js",
+    "static/media/image-header-mobile.jpg": "/FrontEndMentor-Stats-Card/static/media/image-header-mobile.399f71e732a77d1f56c6.jpg",
+    "index.html": "/FrontEndMentor-Stats-Card/index.html",
+    "main.039ef7f4.css.map": "/FrontEndMentor-Stats-Card/static/css/main.039ef7f4.css.map",
+    "main.f8e386bf.js.map": "/FrontEndMentor-Stats-Card/static/js/main.f8e386bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039ef7f4.css",
+    "static/js/main.f8e386bf.js"
+  ]
+}
